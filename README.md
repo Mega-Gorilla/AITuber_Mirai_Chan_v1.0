@@ -1,10 +1,10 @@
-# AITuber
+# AITuber みらい v1
 <div align="center">
 
 ![Alt text](mirai_image1.png)
 
 </div>
-AITuber [みらいちゃん](https://www.youtube.com/live/ho7qBvd-SF4?si=3NkqxXElxrf1UrSg) のソースコードです。<br>
+AITuber みらいちゃん( https://www.youtube.com/live/ho7qBvd-SF4?si=3NkqxXElxrf1UrSg ) のソースコードです。<br>
 みらいちゃんは、GPT4 x GPT3.5 x Azure Speech x OBS Plugin x VoiceVox x VTube Studioで動作しており、リンク配信のような応答、アニメーション、声質の変更をすることが出来ます。
 <br><br>
 <注意:このレポジトリは今後更新される予定はありません。issuesは公開されていますが、今後メンテナンスされる予定はありません。このレポジトリは、旧みらいちゃんの墓標として公開されています。>
