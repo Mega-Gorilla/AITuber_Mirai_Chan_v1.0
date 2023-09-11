@@ -1,4 +1,4 @@
-# AITuber みらい v1
+# AITuber みらい Beta
 <div align="center">
 
 ![Alt text](mirai_image1.png)
@@ -9,6 +9,12 @@ AITuber みらいちゃん( https://www.youtube.com/live/ho7qBvd-SF4?si=3NkqxXEl
 <br><br>
 <注意:このレポジトリは今後更新される予定はありません。issuesは公開されていますが、今後メンテナンスされる予定はありません。このレポジトリは、旧みらいちゃんの墓標として公開されています。>
 <BR><BR>
+
+# 利用規約
+本コードは「Apache License 2.0」に準拠していますが、以下の点を追記します。
+- 本コードを元に、ソフトウェアおよび配信をする場合、概要欄、説明欄等に「AITuber みらい Beta」を用いてることを示してください。
+- 商用利用可能ですが、法人様、企業様での商用利用は「kotatsugiken@gmail.com」にご一報ください。
+- 過激な暴力的な表現を含むコンテンツ、情報商材への使用および掲載、宗教的なコンテンツ、その他、社会通念に反するコンテンツに対する使用は固く禁じます。
 
 # Installation
 
