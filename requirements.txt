@@ -1,0 +1,7 @@
+azure-cognitiveservices-speech
+openai
+websockets
+pyaudio
+pynput
+obsws-python
+langdetect
