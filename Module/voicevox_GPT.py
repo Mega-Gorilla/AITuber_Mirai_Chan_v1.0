@@ -5,7 +5,7 @@ import time
 import re
 import json
 import websocket
-import VtubeStudio_API
+import Module.VtubeStudio_API as VtubeStudio_API
 import asyncio
 from Module.voicevox import Add_preset,update_preset, audio_stream_start, text_to_wave, audio_stream_stop , Get_presets, remove_all_presets
 from pprint import pprint

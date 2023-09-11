@@ -39,7 +39,7 @@ import openai
 import time
 import re
 import json
-import VtubeStudio_API
+import Module.VtubeStudio_API as VtubeStudio_API
 import asyncio
 import os
 from pprint import pprint
