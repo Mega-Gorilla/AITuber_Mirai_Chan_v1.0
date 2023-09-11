@@ -20,7 +20,7 @@ from Module.voicevox_GPT import VoiceVoxGPT_AutoPich,Create_AutoPich_Preset
  
 # 初期設定
 speech_key = os.getenv("AZURE_API_KEY")
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai_key = os.getenv("OPENAI_API_KEY")
 speech_region = "japaneast"
 obs= obs_socket()
 scene_name = "auto"
@@ -391,7 +391,7 @@ if __name__ == "__main__":
         print_color("Internet Connection is Available",'green')
     else:
         print_color("Internet Connection is Not Available")
-        sys.exit(1)
+        sys.exit()
     
     #VTS認証確認
     asyncio.get_event_loop().run_until_complete(VtubeStudio_API.VTS_main().Authentication_Check())
