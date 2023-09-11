@@ -6,17 +6,14 @@ import ctypes
 import time
 import openai
 import json
-import re
-import VtubeStudio_API
-import websockets
 import asyncio
 import pyaudio
 import platform
-from pprint import pprint
+from pynput import keyboard
+import Module.VtubeStudio_API as VtubeStudio_API
 from Module.OBS_plugin_5 import obs_socket
 from Module.print_color import print_color
 from Module.voicevox import text_to_wave
-from pynput import keyboard
 from Module.deepl_translator import translate_client
 from Module.vtubeStudio_GPT_motion import VtubeStudio_GPTmotion_Stream,VtubeStudio_emotion
 from Module.voicevox_GPT import VoiceVoxGPT_AutoPich,Create_AutoPich_Preset
