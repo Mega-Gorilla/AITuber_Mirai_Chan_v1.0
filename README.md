@@ -1,7 +1,7 @@
 # AITuber MIRAI Beta
 <div align="center">
 
-![Alt text](mirai_image1.png)
+![Alt text](https://github.com/Mega-Gorilla/AI_Tuber_Mirai_old/blob/main/image/mirai_image1.png?raw=true)
 
 </div>
 AITuber みらいちゃん( https://www.youtube.com/live/ho7qBvd-SF4?si=3NkqxXElxrf1UrSg ) のソースコードです。<br>
@@ -89,7 +89,7 @@ Run the following code to launch AITuber.
 
 Upon first execution, a screen will appear in VTS; please grant permission.
 <div align="center">
-<img src="VTS_token.png" width="500"><BR>
+<img src="https://github.com/Mega-Gorilla/AI_Tuber_Mirai_old/blob/main/image/VTS_token.png?raw=true" width="500"><BR>
 </div><BR>
 Congratulations! Mirai is now near you!<BR><BR>
 
