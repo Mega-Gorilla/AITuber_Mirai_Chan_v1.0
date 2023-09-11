@@ -1,4 +1,4 @@
-# AITuber みらい Beta
+# AITuber MIRAI Beta
 <div align="center">
 
 ![Alt text](mirai_image1.png)
@@ -72,8 +72,8 @@ VB-AUDIO ( https://vb-audio.com/Cable/ )
 
 1. Install VTS (https://store.steampowered.com/app/1325860/VTube_Studio/)
 1. Launch VTS
-1. Double-click on the VTS screen, then click the gear icon and check the box for "Enable API."
-1. In "Lip Sync Settings," check the box for "Use Microphone."
+1. Double-click on the VTS screen, then click the gear icon and check the box for "StartAPI"
+1. In "Lip Sync Settings," check the box for "Use Microphone." and "Preview microphone"
 1. Under "Select Microphone," choose "VB-Audio."
 1. Upon first execution, the following screen will appear in VTS. Press "Allow" to add the Token.
 
@@ -83,3 +83,14 @@ VB-AUDIO ( https://vb-audio.com/Cable/ )
 > `token:`  
 >
 > Save it in this state.
+
+## Launch
+Run the following code to launch AITuber. 
+
+Upon first execution, a screen will appear in VTS; please grant permission.
+<div align="center">
+<img src="VTS_token.png" width="500"><BR>
+</div><BR>
+Congratulations! Mirai is now near you!<BR><BR>
+
+After speaking into the microphone, press the spacebar and "Mirai-chan" will start talking.
