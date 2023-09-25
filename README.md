@@ -1,4 +1,4 @@
-# AITuber MIRAI Beta
+# AITuber MIRAI Chan 1.0
 <div align="center">
 
 ![Alt text](https://github.com/Mega-Gorilla/AI_Tuber_Mirai_old/blob/main/image/mirai_image1.png?raw=true)
