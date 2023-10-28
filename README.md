@@ -85,7 +85,7 @@ VB-AUDIO ( https://vb-audio.com/Cable/ )
 > Save it in this state.
 
 ## Launch
-Run the following code to launch AITuber. 
+Run main.py to execute the script.(When running main.py, OBS, Vtube Studio, and VoiceVox need to be running.)
 
 Upon first execution, a screen will appear in VTS; please grant permission.
 <div align="center">
