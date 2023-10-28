@@ -69,6 +69,7 @@ VB-AUDIO ( https://vb-audio.com/Cable/ )
 <div align="center">
 <img src="https://github.com/Mega-Gorilla/AI_Tuber_Mirai_old/blob/main/image/VTS_API_setting.png?raw=true" width="500"><BR>
 </div><BR>
+
 1. Install VTS (https://store.steampowered.com/app/1325860/VTube_Studio/)
 1. Launch VTS
 1. Double-click on the VTS screen, then click the gear icon and check the box for "StartAPI"
