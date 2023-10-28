@@ -48,15 +48,12 @@ Azure Speech to Text → https://azure.microsoft.com/en-us/services/cognitive-se
 1. Check the box for "Enable WebSocket Server."
 1. Under Server Settings, input a custom port number in the "Server Port" field (e.g., 4455).
 1. Check the box for "Enable Authentication."
-1. Set a custom server password.
+1. Set server password.
+1. Open main.py and replace "OBS_key = "R59emfpeavscjYy7" with your configured password.
 
 ### OBS Subtitles Setting
 
-Add two "Text" sources to your OBS sources. Name each of the two sources "subs" and "subs1" respectively.
-
-### Python Settings
-1. Open Module/OBS_plugin_5.py.
-1. Enter the port number in "self.port" and the password in "self.password," then save the changes.
+Add two "Text" sources to the OBS source (the source name can be arbitrary). Name them "subs" and "subs1" respectively. You can enter any text you like into the "text" sources.
 
 ## VoiceVox Setup
 1. Download and install VOICEVOX from https://voicevox.hiroshiba.jp/.
@@ -69,7 +66,9 @@ To install VB-AUDIO, visit the URL below.
 VB-AUDIO ( https://vb-audio.com/Cable/ )
 
 ## VTS (VTube Studio) Setup
-
+<div align="center">
+<img src="https://github.com/Mega-Gorilla/AI_Tuber_Mirai_old/blob/main/image/VTS_API_setting.png?raw=true" width="500"><BR>
+</div><BR>
 1. Install VTS (https://store.steampowered.com/app/1325860/VTube_Studio/)
 1. Launch VTS
 1. Double-click on the VTS screen, then click the gear icon and check the box for "StartAPI"
