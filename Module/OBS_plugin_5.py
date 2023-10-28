@@ -7,11 +7,11 @@ from langdetect import detect
 from langdetect.lang_detect_exception import LangDetectException
 
 class obs_socket():
-    def __init__(self):
+    def __init__(self,key):
         # OBSの接続設定
         self.host = "localhost"
         self.port = 4455
-        self.password = "nDCgoGVKLiJBKKRr"
+        self.password = key
         self.request = obs.ReqClient(host=self.host, port=self.port, password=self.password)
         self.event = obs.EventClient(host=self.host, port=self.port, password=self.password)
         self.Display_size =[]
