@@ -21,8 +21,9 @@ from Module.voicevox_GPT import VoiceVoxGPT_AutoPich,Create_AutoPich_Preset
 # 初期設定
 speech_key = os.getenv("AZURE_API_KEY")
 openai_key = os.getenv("OPENAI_API_KEY")
+OBS_key = "IAa8JeNIXib2Ujoi"
 speech_region = "japaneast"
-obs= obs_socket()
+obs= obs_socket(key=OBS_key)
 scene_name = "auto"
  
 # Process1 / 音声認識を行う関数
