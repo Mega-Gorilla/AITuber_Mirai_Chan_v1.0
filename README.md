@@ -26,7 +26,7 @@ This code is compliant with the "Apache License 2.0", but the following points s
 ## Python install
 ```
 git clone https://github.com/Mega-Gorilla/AI_Tuber_Mirai_old.git
-cd AI_Tuber_Mirai_old
+cd AITuber_Mirai_Chan_v1.0
 pip install -r requirements.txt
 ```
 
